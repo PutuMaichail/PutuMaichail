@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Putu Maichail!
 
-<!--
-**PutuMaichail/PutuMaichail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🛡️ **Ethical Hacker** in the making.
+- 🎓 Currently a **Computer Science student** (Semester 2) at **Udayana University**.
+- 💻 Passionate about **Python** and **C programming**.
+- 🌱 Always learning and growing: "One Day or Day One."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- 📧 Email: [micfaruos@gmail.com](mailto:your-micfaruos@gmail.com)
+- 📸 Instagram: [Putu Maichail](https://instagram.com/putu_maichail)
+
+---
+
+## 🏆 Certifications
+- **Python Certification** *(Coming Soon!)*
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PutuMaichail&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PutuMaichail&layout=compact&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=PutuMaichail&color=blue)
+
+---
+
+## ⚡ Fun Fact
+"One Day or Day One" – You decide!
