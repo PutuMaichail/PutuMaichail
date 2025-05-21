@@ -10,7 +10,7 @@
 
 ## 📫 Let's Connect
 - 📧 Email: [micfaruos@gmail.com](mailto:your-micfaruos@gmail.com)
-- 📸 Instagram: [Putu Maichail](https://instagram.com/putu_maichail)
+- 📸 Instagram: [PutuMaichail](https://instagram.com/putu_maichail)
 
 ---
 
